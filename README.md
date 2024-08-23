@@ -22,7 +22,7 @@
 
 ### ¿Por qué deberías contactarme?
 
-Soy un apasionado de la tecnología y siempre estoy dispuesto a aprender. Aunque mi camino en el desarrollo móvil ha sido en gran parte autodidacta, he desarrollado una base sólida y experiencia práctica a través de proyectos. Actualmente, soy ayudante en el área de desarrollo móvil mientras perfecciono mis habilidades en Full Stack Java. Siempre estoy buscando oportunidades para crecer y contribuir a proyectos innovadores.
+Soy un apasionado de la tecnología y siempre estoy dispuesto a aprender. Aunque mi camino en el desarrollo móvil ha sido en gran parte autodidacta, he generado experiencia práctica a través de proyectos reales. Actualmente, soy ayudante en el área de desarrollo móvil mientras perfecciono mis habilidades en Full Stack Java. Siempre estoy buscando oportunidades para crecer y contribuir a proyectos.
 
   
 ### Portfolio
